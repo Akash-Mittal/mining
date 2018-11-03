@@ -19,11 +19,10 @@ This user wants to predict the next date-time when investment return will be cre
 * The tool will make a web service call to retrieve JSON response, parse the JSON and calculate the next date. 
 * For one of the user history of credit time and amount of each return can be obtained by following. 
 
-```
-http://demo4729673.mockable.io/LOWCAP
-```
 
-This URL returns the information in JSON format. 
+This URL( http://demo4729673.mockable.io/LOWCAP ) returns the information in JSON format. 
+
+
 
 EXAMPLE INPUT FOR PREDICTOR APP
 ```
