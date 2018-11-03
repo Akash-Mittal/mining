@@ -11,6 +11,7 @@ The interval may vary for differet investment investment plans viz. Currently Co
 * LONGTERM
 
 ### Objective
+
 This user wants to predict the next date-time when investment return will be credited to his/her account. 
 
 * Write a simple command line tool in Java for this prediction. Use simple average for Prediction 
